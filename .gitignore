@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/app/release
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Assets
+system/*
+app/src/main/assets/system.bin
+
+# Core
+*.so
